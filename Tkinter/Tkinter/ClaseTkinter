@@ -1,0 +1,45 @@
+Clase Tkinter:
+
+//dar solo click para que no se vea codigo
+
+label
+	gui1.py
+	gui2.py
+button
+	gui3.py
+	gui4Ejercicio.py //ejercicio button y label
+entry
+	gui6Ejercicio.py //hacer primero
+	gui6.py //dejar ejercicio
+frame
+	gui8.py
+POO
+	gui9.py
+	gui10.py
+	gui10Ejercicio.py //ejercicio
+	gui12.py //nel
+Checkbutton
+	gui13.py
+Radiobutton
+	gui14.py
+
+botones.py --> reliefs //opcional
+_____________________________________________________________________
+GESTORES DE GEOMETRÍA
+
+---------------------------------------------------------------------
+grid
+	grid2.py
+	botones2.py//ejercicio
+	imagen.py //opcional
+---------------------------------------------------------------------
+pack
+	pack.py
+	pack2.py //ejercicio
+---------------------------------------------------------------------
+place
+	place.py
+______________________________________________________________________
+
+EVENTOS
+	gui5.py
