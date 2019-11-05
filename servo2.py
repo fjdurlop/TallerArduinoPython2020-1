@@ -6,6 +6,8 @@
 # 4) arduino send confirmation message back to python
 # 5) message is printed in python console
  
+#	Importamos el objeto serial como el Serial que esta en el IDE de arduino
+ 
 import serial                                           # import serial library
 arduino = serial.Serial('COM18', 9600)   # create serial object named arduino
 while True:                                             # create loop

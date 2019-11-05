@@ -1,0 +1,32 @@
+python-arduino.pptx
+
+servoPrimero.ino:
+	manejo básico del servo
+
+servoSegundo.ino:
+	envío de datos a travéz del serial
+
+servo2.py:
+	envío de datos a travéz del serial importado de librerias de Python
+
+¿Qué es el Serial?
+
+servoBotones.ino:
+	Programa para mover servo, dependiendo de la entrada del Serial
+
+
+GUI.pptx
+
+servo1.py:
+	GUI con botones para enviar al Serial
+
+Ejercicios de Tkinter:
+	con el gui6.py podemos meter un Entry
+
+
+
+
+
+
+
+
